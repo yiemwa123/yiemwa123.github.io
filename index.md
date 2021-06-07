@@ -8,11 +8,11 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Hi! I'm Yichen (Emma) Wang, a rising senior (expected graduation May 2022) studying Information Science at Cornell University. You can reach me at yw345@cornell.edu.
 
 ## About My Mentor
 
-Mentor info goes here.
+My mentor for this summer is Elizabeth Murnane, Assistant Professor in the Department of Engineering at Dartmouth College.
 
 ## About My Project
 
