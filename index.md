@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-Hi! I'm Yichen Wang, but most people call me Emma. I'm a rising senior (expected graduation May 2022) studying Information Science at Cornell University (College of Computing and Information Science). You can reach me at yw345@cornell.edu.
+Hi! I'm Yichen Wang, but most people call me Emma :) I'm a rising senior (expected graduation May 2022) studying Information Science at Cornell University (College of Computing and Information Science). You can reach me at yw345@cornell.edu.
 
 ## About My Mentor
 
