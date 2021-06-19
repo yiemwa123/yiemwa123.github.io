@@ -2,8 +2,6 @@
 layout: page
 title: Blog
 ---
-* TOC
-{:toc}
 
 # Week 2
 
